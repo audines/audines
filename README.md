@@ -1,4 +1,4 @@
-## Hi there 👋 I am Ines Mbonda, a Researcher, statistician, Quantitative Analyst with a track record in applying advanced statistical and machine learning methodologies. I am passionate about transforming raw data into meaningful insights to drive informed decision-making. 
+Hi there 👋 I am Ines Mbonda, a Researcher, statistician, Quantitative Analyst with a track record in applying advanced statistical and machine learning methodologies. I am passionate about transforming raw data into meaningful insights to drive informed decision-making. 
 
 <!--
 **audines/audines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
