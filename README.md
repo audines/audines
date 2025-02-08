@@ -33,11 +33,11 @@ Tableau Vizzes
 
  -**Mentorship**: If you're an undergraduate, graduate or PhD candidate, I'm here to help you navigate this exciting yet challenging phase. Whether you need help with academics, networking opportunities, or simply need someone to listen, I am dedicated to being a resource for you. I understand the struggles and obstacles that can arise during these stages of education, and I am committed to helping you overcome them. Together, we can work towards your goals. Feel free to reach out and benefit from the support I can offer.
  
- -**Data Collection and Management**: I can help tou to gather data from various sources, ensuring its accuracy, consistency, and completeness, and organizing it for analysis.
+ -**Data Collection and Management**: I can help you to gather data from various sources, ensuring its accuracy, consistency, and completeness, and organizing it for analysis.
  
  -**Data Cleaning and Preparation**: Process of identifying and correcting or removing inaccuracies and inconsistencies in datasets to ensure high-quality analysis.
  
- -**Exploratory Data Analysis**: (EDA) I conduct preliminary investigations on your data to discover patterns, anomalies, or trends using statistical and visualization techniques.
+ -**Exploratory Data Analysis** (EDA):  I conduct preliminary investigations on your data to discover patterns, anomalies, or trends using statistical and visualization techniques.
  
  -**Data Visualization**: I can create visual representations of data (e.g., charts, graphs, dashboards) to communicate your findings more effectively to stakeholders.
  
