@@ -25,8 +25,8 @@ Hi there 👋 I am Ines Mbonda, a Researcher, statistician, and Data Analyst wit
  
 ## My Portfolio Projects 📚
 
-
 [Tableau Vizzes]: (https://public.tableau.com/app/profile/in.s2330/vizzes)
+
 ## Certificates 🎓
 
  -	Writing efficient Python code, [verify]:(https://www.datacamp.com/statement-of-accomplishment/course/7db2a6233ee23ac50effe50e53b6f0ad960c557a?raw=1).
