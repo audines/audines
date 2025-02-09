@@ -25,9 +25,19 @@ Hi there 👋 I am Ines Mbonda, a Researcher, statistician, and Data Analyst wit
  
 ## My Portfolio Projects 📚
 
-Web Scrapping
-Tableau Vizzes
+
+[Tableau Vizzes]: (https://public.tableau.com/app/profile/in.s2330/vizzes)
 ## Certificates 🎓
+
+ -	Writing efficient Python code, [verify]:(https://www.datacamp.com/statement-of-accomplishment/course/7db2a6233ee23ac50effe50e53b6f0ad960c557a?raw=1).
+ -	Data manipulation with pandas, [verify]
+ -	Introduction to Importing Data in Python, [verify]
+ -	Joining Data with pandas, [verify]
+ - Cleaning Data in Python, [verify]
+ -	Introduction to Data Visualization with Matplotlib, [verify]
+ -	Machine Learning with scikit-learn, [verify]
+ -	Intermediate SQL Queries, [verify]
+
 
 ## My Services ✅
 
