@@ -1,3 +1,8 @@
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=audines)  🚀
+
+
+
 ## About Me 💬
 
 Hi there 👋 I am Ines Mbonda, a Researcher, statistician, and Data Analyst with over 6 years in applying advanced statistical methodologies. I have a background in Mathematics and finance and I hold a Doctoral degree in Statistics from Stellenbosch University, South Africa. I am passionate about transforming raw data into meaningful insights to drive informed decision-making.
