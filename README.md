@@ -10,7 +10,7 @@ Hi there 👋 I am Ines Mbonda, a Researcher, statistician, and Data Analyst wit
 ## Skills 🛠️
  - **Mathematics and Statistics**: I have a Strong foundation in probability, statistics, linear algebra, and calculus which is crucial for modeling and analyzing data.
   
- - **Programming Skills**: I am Proficient in Python, R.
+ - **Programming Skills**: Python, R.
    
  - **Data Analysis**: I have an ability to manipulate and analyze large datasets using tools like SQL, Excel.
    
@@ -47,7 +47,7 @@ Under Contruction
  
  -**Exploratory Data Analysis** (EDA): I conduct preliminary investigations on your data to discover patterns, anomalies, or trends using statistical and visualization techniques.
  
- -**Data Visualization**: I can create visual representations of data (e.g., charts, graphs, dashboards) to communicate your findings more effectively to stakeholders.
+ -**Data Visualization**: I can create visual representations of data to communicate your findings more effectively to stakeholders.
  
  -**Reporting**: Producing reports that summarize your data analysis and insights tailored for different audiences within your organization.
  
